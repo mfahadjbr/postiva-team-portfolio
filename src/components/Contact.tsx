@@ -88,7 +88,7 @@ const Contact = () => {
                 <Button
                   type="submit"
                   size="lg"
-                  className="w-full bg-accent hover:bg-accent/90 text-accent-foreground"
+                  className="w-full bg-primary hover:bg-primary/90 text-primary-foreground"
                 >
                   Send Message
                   <Send className="ml-2 h-5 w-5" />
